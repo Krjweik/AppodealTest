@@ -1,0 +1,9 @@
+lastUpgrade=00931
+proj.AppId=931005323118
+and.BundleId=com.playflock.indianacat
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e931005323118%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.playflock.indianacat%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_ancient_greece%22%3eCgkI7q73oYwbEAIQAg%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
